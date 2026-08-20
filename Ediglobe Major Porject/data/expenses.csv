@@ -1,0 +1,7 @@
+id,date,category,amount,description
+1,2026-08-10,Food,250.00,Lunch
+2,2026-08-11,Transport,120.00,Bus
+3,2026-08-12,Shopping,500.00,Books
+4,2026-08-12,Other,500.00,nothing
+5,2026-08-12,Other,10.00,pizza
+6,2026-08-12,Food,100.00,pizza

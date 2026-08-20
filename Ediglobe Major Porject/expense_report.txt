@@ -1,0 +1,10 @@
+PERSONAL EXPENSE TRACKER REPORT
+===================================
+Total spent: ₹1480.00
+Average expense: ₹246.67
+Highest expense: ₹500.00 (Shopping)
+
+Other: ₹510.00
+Shopping: ₹500.00
+Food: ₹350.00
+Transport: ₹120.00
